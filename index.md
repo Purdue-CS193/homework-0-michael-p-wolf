@@ -1,4 +1,4 @@
- Michael Wolf's First CS193 Homework
+# Michael Wolf's First CS193 Homework
 
 My Favorite Things About CS193
 
@@ -7,8 +7,6 @@ My Favorite Things About CS193
 - I will get to learn several tools to help me in my CS studies and career
 
 - Who doesn't love extra computer science courses?!
-
-- test
 
 ## Welcome to GitHub Pages
 

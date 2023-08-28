@@ -1,7 +1,5 @@
 # Michael Wolf's First CS193 Homework
 
-My Favorite Things About CS193
-
 - The instructors all seem super cool
 
 - I will get to learn several tools to help me in my CS studies and career

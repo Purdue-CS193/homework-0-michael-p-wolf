@@ -1,3 +1,5 @@
+theme: minima
+
 # Michael Wolf's First CS193 Homework
 
 My Favorite Things About CS193

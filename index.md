@@ -1,10 +1,18 @@
+# Michael Wolf's First CS193 Homework
+
+My Favorite Things About CS193
+
+- The instructors all seem super cool
+
+- I will get to learn several tools to help me in my CS studies and career
+
+- Who doesn't love extra computer science courses?!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-This is me testing if I can add text to my website
 
 ### Markdown
 
